@@ -17,7 +17,7 @@ A base foi desenvolvida durante a DIO #PythonDay. Trata-se de uma IA, que se com
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/caiofrz/Assistente_Virtual_IA.git
 ```
 
 Entre no diretório do projeto
